@@ -1,5 +1,6 @@
-## Hi there 👋
-
+🎓 B.Tech CSE (AI & Data Science) | 2nd Year
+💡 Aspiring Data Scientist
+🚀 Building projects in Python, ML & Data Analysis
 <!--
 **eshna-ds/eshna-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

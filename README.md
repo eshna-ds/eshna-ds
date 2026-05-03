@@ -2,7 +2,7 @@
 <br>
 💡 Aspiring Data Scientist
 <br>
-🚀 Building real world projects in Python, ML & Data Analysis
+🚀 Building real world projects in Python, ML , Data Analysis , Power BI
 <!--
 **eshna-ds/eshna-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

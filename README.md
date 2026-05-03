@@ -1,8 +1,8 @@
 🎓 B.Tech CSE (AI & Data Science) | 2nd Year
 <br>
-💡 Aspiring Data Scientist
+💡 Aspiring Data Analyst
 <br>
-🚀 Building real world projects in Python, ML , Data Analysis , Power BI
+🚀 Building real world projects in Python, ML , Data Analysis , SQL , Power BI
 <!--
 **eshna-ds/eshna-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
